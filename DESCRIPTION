@@ -1,0 +1,10 @@
+Package: vertPipeFlow
+Version: 0.01
+Date: 2009-02-18
+Title: Discharge from a Vertical Pipe
+Author: William H. Asquith
+Maintainer: William H. Asquith <wasquith@usgs.gov>
+Depends: R (>= 2.8.0), utils
+Description: Convenience function for the computation of discharge from a vertical pipe.
+License: GPL-2
+NeedsCompilation: no

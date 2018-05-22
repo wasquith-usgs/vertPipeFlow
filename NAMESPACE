@@ -1,0 +1,4 @@
+importFrom("stats", "approx")
+importFrom("utils", "packageDescription")
+#
+export(QvertPipeUSBR)
